@@ -5,7 +5,7 @@ Python 3.8
 Открыть термнал в папке с файлом и выполнить следующие команды:\
 python -m venv venv\
 source venv/Scripts/activate\
-pip install -r requirements.txt\
+pip install -r requirements.txt
 
 # Инструкция
 Списки можно загрузить по кнопке "Загрузить XML".\
