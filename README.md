@@ -2,7 +2,8 @@
 Python 3.8
 
 # Установка
-Открыть термнал в папке с файлом и выполнить следующие команды:\
+Cкачать и распаковать архив\
+Открыть терминал в папке и выполнить следующие команды:\
 python -m venv venv\
 source venv/Scripts/activate\
 pip install -r requirements.txt
